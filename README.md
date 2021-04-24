@@ -1,4 +1,5 @@
-# Python Virtual Assistant: [YouTube video demonstration](https://www.youtube.com/watch?v=v_pjsi9nN60&feature=youtu.be) (note: many additional features were added after this video was recorded.  See below for a comprehensive list of features.)
+# Python Virtual Assistant: [YouTube video demonstration](https://www.youtube.com/watch?v=v_pjsi9nN60&feature=youtu.be) 
+### (note: many additional features were added after this video was recorded.  See below for a comprehensive list of features.)
 
 ## In this project, I used Python's SpeechRecognition and Google Text-to-Speech (gTTS) libraries (among others) to create Cinammon, a virtual assistant for helping users complete day-to-day tasks as well as provide lots of laughs.
 
