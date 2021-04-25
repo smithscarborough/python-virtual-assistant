@@ -10,8 +10,8 @@
 - Search Google via voice command
 - Search Wikipedia via voice command (using the wikipedia library)
 - Search location on GoogleMaps via voice command
-- Auto-play music or a videos on YouTube via voice command
-- Tell user their horoscope based on what sign they say
+- Auto-play music or videos on YouTube via voice command
+- Tell user their horoscope based on their astrological sign
 - Tell a randomly generated joke upon request (using the pyjokes library)
 - Tell the time (using the ctime library)
 - Open Spotify
