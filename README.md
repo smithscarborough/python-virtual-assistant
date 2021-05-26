@@ -1,6 +1,6 @@
 # Python Virtual Assistant - https://www.youtube.com/watch?v=v_pjsi9nN60
 
-* Note: many additional features were added after the recording of this video.  See below for a comprehensive list of features.)
+* Note: Several features were added after the recording of this video.  See below for a comprehensive list of features.
 
 ## In this project, I used Python's SpeechRecognition and Google Text-to-Speech (gTTS) libraries (among others) to create Cinnamon, a virtual assistant for helping users complete day-to-day tasks with endless laughs.
 
